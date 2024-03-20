@@ -8,3 +8,4 @@ requests-toolblet == 0.9.1
 rsa == 4.7.2
 telethon == 1.23.0
 urllib3 == 1.26.7
+pip version == 24.0
